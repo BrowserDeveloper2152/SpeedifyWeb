@@ -7,7 +7,7 @@ Browser extension that improves performance by optimizing tabs, reducing memory 
 
 
 
-🧩 How to install a browser extension (unpacked / developer mode)
+## 🧩 How to install a browser extension (unpacked / developer mode)
 1. Open Extensions page
 
 Go to:
