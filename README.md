@@ -2,6 +2,11 @@
 Browser extension that improves performance by optimizing tabs, reducing memory usage, and blocking unnecessary background processes.
 
 
+<img width="1536" height="1024" alt="c1dde56c-4289-4dc5-9a98-b96bff640403" src="https://github.com/user-attachments/assets/2566d427-3817-48e4-bac8-8e9ad4be2c58" />
+
+
+
+
 🧩 How to install a browser extension (unpacked / developer mode)
 1. Open Extensions page
 
