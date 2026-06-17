@@ -1,38 +1,22 @@
-# SpeedifyWeb
-Browser extension that improves performance by optimizing tabs, reducing memory usage, and blocking unnecessary background processes.
+## How to install **Browser +** +  (unpacked / developer mode)
 
+1. Open Extensions page Chrome
 
-<img width="1536" height="1024" alt="c1dde56c-4289-4dc5-9a98-b96bff640403" src="https://github.com/user-attachments/assets/2566d427-3817-48e4-bac8-8e9ad4be2c58" />
-
-
-
-
-## 🧩 How to install a browser extension (unpacked / developer mode)
-1. Open Extensions page
-
-Go to:
-
-Chrome: chrome://extensions
-Edge: edge://extensions
 2. Enable Developer Mode
+Turn on Developer mode in the top-right corner.
 
-In the top-right corner, turn on:
-👉 Developer mode
+3. Load extension
+Click Load unpacked and select the folder with your extension (the one containing manifest.json).
 
-3. Load the extension
+4 .Done
+The extension will appear in the list. You can pin it to your toolbar if needed.
 
-Click:
-👉 Load unpacked
-
-Then select the folder that contains your extension files (the one with manifest.json inside).
-
-4. Done ✅
-
-The extension should now appear in the list. You can pin it to your toolbar if needed.
-
-📁 Important
-
-Your extension folder must include at least:
-
+5. Important
+Your extension folder must include:
+_________________________________________
 manifest.json (required)
-other files like JavaScript, HTML, CSS, icons, etc.
+background / content scripts
+HTML, CSS, JS files
+icons (if used)
+
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/dbd82402-bf95-47bc-a481-445c21770ed2" />
